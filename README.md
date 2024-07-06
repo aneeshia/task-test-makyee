@@ -5,7 +5,7 @@
 ## Introduction
 
 This project contains automated tests for Makyee website. The tests are written using Cypress.
-This test script validates the favourite fcuntionality when a guest user tries to favourite a property.
+This test script validates the favourite functionality when a guest user tries to favourite a property.
 
 ## Prerequisites
 
